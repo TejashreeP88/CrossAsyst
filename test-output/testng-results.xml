@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-24T19:25:10 IST" name="Suite" finished-at="2020-02-24T19:26:04 IST" duration-ms="54503">
+    <groups>
+    </groups>
+    <test started-at="2020-02-24T19:25:10 IST" name="Test" finished-at="2020-02-24T19:26:04 IST" duration-ms="54503">
+      <class name="automationPractice.E2ETest">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:automationPractice.E2ETest@74455848]" started-at="2020-02-24T19:25:10 IST" name="initialize" finished-at="2020-02-24T19:25:27 IST" duration-ms="17020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="basePageNavigation()[pri:1, instance:automationPractice.E2ETest@74455848]" started-at="2020-02-24T19:25:27 IST" name="basePageNavigation" finished-at="2020-02-24T19:25:29 IST" duration-ms="2651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method signature="createNewAccount()[pri:2, instance:automationPractice.E2ETest@74455848]" started-at="2020-02-24T19:25:30 IST" name="createNewAccount" finished-at="2020-02-24T19:25:30 IST" duration-ms="667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewAccount -->
+        <test-method signature="RegisterNewUser()[pri:3, instance:automationPractice.E2ETest@74455848]" started-at="2020-02-24T19:25:30 IST" name="RegisterNewUser" finished-at="2020-02-24T19:25:39 IST" duration-ms="8880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterNewUser -->
+        <test-method signature="Login()[pri:4, instance:automationPractice.E2ETest@74455848]" started-at="2020-02-24T19:25:39 IST" name="Login" finished-at="2020-02-24T19:25:42 IST" duration-ms="2783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="AddToCart()[pri:5, instance:automationPractice.E2ETest@74455848]" started-at="2020-02-24T19:25:42 IST" name="AddToCart" finished-at="2020-02-24T19:25:51 IST" duration-ms="9350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddToCart -->
+        <test-method signature="Checkout()[pri:6, instance:automationPractice.E2ETest@74455848]" started-at="2020-02-24T19:25:51 IST" name="Checkout" finished-at="2020-02-24T19:26:01 IST" duration-ms="10034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Checkout -->
+        <test-method signature="OrderHistory()[pri:7, instance:automationPractice.E2ETest@74455848]" started-at="2020-02-24T19:26:01 IST" name="OrderHistory" finished-at="2020-02-24T19:26:04 IST" duration-ms="2741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderHistory -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:automationPractice.E2ETest@74455848]" started-at="2020-02-24T19:26:04 IST" name="teardown" finished-at="2020-02-24T19:26:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- automationPractice.E2ETest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
